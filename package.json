@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "jsdom": "^21.1.0",
+    "lodash": "^4.17.21",
+    "node-cron": "^3.0.2",
+    "puppeteer": "^19.7.3",
+    "twilio": "^4.8.0"
+  }
+}
